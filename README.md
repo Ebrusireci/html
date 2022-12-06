@@ -1,2 +1,3 @@
 # html
-patika.dev "html" eğitimi için yaptığım ilk ödev
+patika.dev "html" eğitimi için yaptığım tüm ödevler
+
